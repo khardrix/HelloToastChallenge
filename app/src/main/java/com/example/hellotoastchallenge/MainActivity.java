@@ -1,10 +1,12 @@
-package com.example.hellotoast;
+package com.example.hellotoastchallenge;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import hellotoastchallenge.R;
 
 public class MainActivity extends AppCompatActivity {
 
